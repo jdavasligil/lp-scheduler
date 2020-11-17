@@ -34,6 +34,10 @@ This capstone project was completed as required course work for Math 464: Linear
 
 * [GNU Octave](https://www.gnu.org/software/octave/download)
 
+OR
+
+* [MATLAB](https://www.mathworks.com/products/matlab.html) (Will require modification)
+
 
 ### Installation
 
