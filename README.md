@@ -89,5 +89,5 @@ Project Link: [https://github.com/jdavasligil/lp-scheduler](https://github.com/j
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Dr. Thomas Asaki](http://www.math.wsu.edu/faculty/tasaki)
+* [Dr. Tom Asaki](http://www.math.wsu.edu/faculty/tasaki)
 * [Mike](http://zoecoffeekitchen.com/about.html)
