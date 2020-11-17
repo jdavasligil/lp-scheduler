@@ -89,4 +89,5 @@ Project Link: [https://github.com/jdavasligil/lp-scheduler](https://github.com/j
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-Special thanks to Dr. Thomas Asaki (Washington State University Department of Mathematics) and to Mike (local Pullman business owner).
+* [Dr. Thomas Asaki](http://www.math.wsu.edu/faculty/tasaki)
+* [Mike](http://zoecoffeekitchen.com/about.html)
